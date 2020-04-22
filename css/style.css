@@ -1,0 +1,18 @@
+.jumbotron-fluid
+{
+    height: 50vh;
+    background: url(../images/cake.jpg);
+    background-size: cover;
+}
+body
+{
+    background-color:gray;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+    height: 13%;
+    width:100%;
+    text-align: center;
+}
